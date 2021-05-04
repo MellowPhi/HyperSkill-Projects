@@ -1,2 +1,2 @@
-# zookeeper
+# hyperprojects
 simple zoo keeper program

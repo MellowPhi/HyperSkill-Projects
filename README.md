@@ -1,7 +1,8 @@
-# Just a list of HyperSkill projects
+# List of HyperSkill projects
 
 Projects in Python
 
-1) zookeeper
-2) simplechatbot
+### 1) Zookeeper
+
+### 2) Simplechatbot
 

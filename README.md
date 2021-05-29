@@ -1,8 +1,6 @@
-# List of HyperSkill projects
+First HyperSkill project
 
-Projects in Python
 
-### 1) Zookeeper
 
-### 2) Simplechatbot
+### Zookeeper
 
